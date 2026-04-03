@@ -1,0 +1,7 @@
+Facebook SAM2 Prediction
+Video: C:\workspace\SAM2\hvs\sample\..\..\.dataset\video_samples\rotating_box\rotating_box.avi
+Frames: 600, Size: 640x480
+Init: 15.24s
+Propagation: 137.53s (4.4 FPS)
+Saving: 3.16s
+Total: 155.94s

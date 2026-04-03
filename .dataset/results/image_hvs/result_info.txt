@@ -1,0 +1,21 @@
+HVS SAM2 Image Prediction Result
+========================================
+Image: 000000006818.jpg (640x427)
+Checkpoint: C:\workspace\SAM2\hvs\sample\..\..\facebook\checkpoints\sam2.1_hiera_tiny.pt
+Multimask: True
+
+Mask Results:
+  Best mask: [2] score=0.8477
+  Mask area: 75,822 pixels (27.7%)
+  All scores: ['0.7656', '0.6406', '0.8477']
+
+Timing (ms):
+  image_load: 8.38
+  model_build: 348.10
+  image_encoding: 302.79
+  mask_prediction: 109.88
+  total_inference: 412.67
+  warm_encoding: 30.37
+  warm_prediction: 9.73
+  warm_total: 40.10
+  warm_fps: 24.94

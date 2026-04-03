@@ -1,0 +1,10 @@
+Fine-tuned Model Prediction Comparison
+======================================================================
+000000006818.jpg: scores={'pretrained': 0.9296875, 'fb_ft': 0.92578125, 'hvs_ft': 0.94921875}, gt_ious={'pretrained': np.float64(0.8808574274972938), 'fb_ft': np.float64(0.8747504987837449), 'hvs_ft': np.float64(0.904109588815913)}
+000000017627.jpg: scores={'pretrained': 0.87109375, 'fb_ft': 0.90625, 'hvs_ft': 0.93359375}, gt_ious={'pretrained': np.float64(0.9296887597275134), 'fb_ft': np.float64(0.875407165981204), 'hvs_ft': np.float64(0.9484049477623039)}
+000000037777.jpg: scores={'pretrained': 0.86328125, 'fb_ft': 0.890625, 'hvs_ft': 0.80859375}, gt_ious={'pretrained': np.float64(0.6869565157655956), 'fb_ft': np.float64(0.6869565157655956), 'hvs_ft': np.float64(0.6695652115689982)}
+000000087038.jpg: scores={'pretrained': 0.294921875, 'fb_ft': 0.58203125, 'hvs_ft': 0.8359375}, gt_ious={'pretrained': np.float64(0.1727037515612213), 'fb_ft': np.float64(0.20299553849490265), 'hvs_ft': np.float64(0.04706253946713123)}
+000000174482.jpg: scores={'pretrained': 0.1728515625, 'fb_ft': 0.25390625, 'hvs_ft': 0.89453125}, gt_ious={'pretrained': np.float64(0.024719786926746205), 'fb_ft': np.float64(0.014454555543024435), 'hvs_ft': np.float64(0.8513024501967998)}
+----------------------------------------------------------------------
+Avg Score: pretrained=0.6264, fb_ft=0.7117, hvs_ft=0.8844
+Avg GT IoU: pretrained=0.5390, fb_ft=0.5309, hvs_ft=0.6841

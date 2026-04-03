@@ -1,0 +1,12 @@
+{
+  "name": "02_cups",
+  "description": "컵 쌓기 - 노란색 공 추적",
+  "fps": 29.97002997002997,
+  "frames": 300,
+  "size": [1280, 720],
+  "detect_method": "center",
+  "prompt": {
+    "point": [400, 460],
+    "label": 1
+  }
+}

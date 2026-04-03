@@ -1,0 +1,8 @@
+SAM2 Image Prediction Result
+============================
+Image: 000000006818.jpg (427x640)
+Point: (213, 320)
+Checkpoint: c:\workspace\SAM2\facebook\checkpoints\sam2.1_hiera_tiny.pt
+Best mask score: 0.8480
+Mask area: 75732 pixels (27.7%)
+All scores: ['0.7689', '0.6457', '0.8480']

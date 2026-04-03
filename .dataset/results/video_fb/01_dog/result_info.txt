@@ -1,0 +1,7 @@
+Facebook SAM2 Prediction
+Video: C:\workspace\SAM2\hvs\sample\..\..\.dataset\video_samples\01_dog\01_dog.mp4
+Frames: 289, Size: 1280x720
+Init: 9.06s
+Propagation: 26.92s (10.7 FPS)
+Saving: 5.71s
+Total: 41.69s

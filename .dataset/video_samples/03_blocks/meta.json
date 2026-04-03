@@ -1,0 +1,12 @@
+{
+  "name": "03_blocks",
+  "description": "블록 놀이 - T 알파벳 블록 추적",
+  "fps": 29.97002997002997,
+  "frames": 292,
+  "size": [1280, 720],
+  "detect_method": "center",
+  "prompt": {
+    "point": [977, 262],
+    "label": 1
+  }
+}

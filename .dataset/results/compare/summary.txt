@@ -1,0 +1,29 @@
+Facebook vs HVS Prediction Comparison
+======================================================================
+Image                            FB Score  HVS Score      IoU   Match%
+----------------------------------------------------------------------
+  IoU=0.9974  Match=99.9%  000000006818.jpg
+  IoU=0.9746  Match=100.0%  000000017627.jpg
+  IoU=0.9879  Match=100.0%  000000037777.jpg
+  IoU=0.9758  Match=100.0%  000000087038.jpg
+  IoU=0.9892  Match=99.7%  000000174482.jpg
+  IoU=0.9845  Match=100.0%  000000181666.jpg
+  IoU=0.9959  Match=100.0%  000000184791.jpg
+  IoU=0.9709  Match=100.0%  000000252219.jpg
+  IoU=0.9983  Match=100.0%  000000289393.jpg
+  IoU=0.9985  Match=100.0%  000000296649.jpg
+  IoU=0.9951  Match=99.9%  000000331352.jpg
+  IoU=0.9838  Match=100.0%  000000348881.jpg
+  IoU=0.9969  Match=100.0%  000000386912.jpg
+  IoU=0.9972  Match=100.0%  000000397133.jpg
+  IoU=0.9826  Match=99.8%  000000403385.jpg
+  IoU=0.9874  Match=100.0%  000000458054.jpg
+  IoU=0.9982  Match=99.9%  000000480985.jpg
+  IoU=0.9837  Match=99.6%  000000491497.jpg
+  IoU=1.0000  Match=100.0%  000000502136.jpg
+  IoU=0.9996  Match=100.0%  000000522713.jpg
+----------------------------------------------------------------------
+Average Mask IoU:    0.9899
+Min / Max IoU:       0.9709 / 1.0000
+Average Pixel Match: 99.9%
+Verdict: [PASS] Near-identical -- Only minor floating point differences (preprocessing path).

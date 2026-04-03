@@ -1,0 +1,7 @@
+Facebook SAM2 Prediction
+Video: C:\workspace\SAM2\hvs\sample\..\..\.dataset\video_samples\03_blocks\03_blocks.mp4
+Frames: 292, Size: 1280x720
+Init: 10.09s
+Propagation: 27.33s (10.7 FPS)
+Saving: 6.29s
+Total: 43.70s

@@ -1,0 +1,7 @@
+Facebook SAM2 Prediction
+Video: C:\workspace\SAM2\hvs\sample\..\..\.dataset\video_samples\moving_circle\moving_circle.avi
+Frames: 600, Size: 640x480
+Init: 17.38s
+Propagation: 60.90s (9.9 FPS)
+Saving: 3.50s
+Total: 81.78s

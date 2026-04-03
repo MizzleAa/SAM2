@@ -1,0 +1,18 @@
+{
+  "name": "01_dog",
+  "description": "개와 공놀이",
+  "fps": 29.97002997002997,
+  "frames": 289,
+  "size": [
+    1280,
+    720
+  ],
+  "detect_method": "red",
+  "prompt": {
+    "point": [
+      461,
+      432
+    ],
+    "label": 1
+  }
+}

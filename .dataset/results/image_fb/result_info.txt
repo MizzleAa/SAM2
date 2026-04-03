@@ -1,0 +1,24 @@
+Facebook SAM2 Image Prediction Result
+========================================
+Image: 000000006818.jpg (427x640)
+Prompt: point (213, 320), label=1
+Checkpoint: C:\workspace\SAM2\facebook\checkpoints\sam2.1_hiera_tiny.pt
+Multimask: True
+
+Mask Results:
+  Best mask: [2] score=0.8438
+  Mask area: 75,680 pixels (27.7%)
+  All scores: ['0.7539', '0.6484', '0.8438']
+
+Timing (ms):
+  image_load: 8.88
+  model_build: 677.22
+  image_encoding: 263.17
+  mask_prediction: 117.05
+  warm_encoding: 36.40
+  warm_prediction: 9.41
+  warm_total: 45.81
+  warm_fps: 21.83
+  save_results: 19.38
+  total_inference: 380.22
+  total_pipeline: 1085.71

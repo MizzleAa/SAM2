@@ -1,0 +1,7 @@
+Facebook SAM2 Prediction
+Video: C:\workspace\SAM2\hvs\sample\..\..\.dataset\video_samples\05_default_juggle\05_default_juggle.mp4
+Frames: 247, Size: 1280x720
+Init: 8.83s
+Propagation: 23.33s (10.6 FPS)
+Saving: 6.29s
+Total: 38.45s

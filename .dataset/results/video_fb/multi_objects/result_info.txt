@@ -1,0 +1,7 @@
+Facebook SAM2 Prediction
+Video: C:\workspace\SAM2\hvs\sample\..\..\.dataset\video_samples\multi_objects\multi_objects.avi
+Frames: 600, Size: 640x480
+Init: 15.19s
+Propagation: 317.83s (1.9 FPS)
+Saving: 7.00s
+Total: 340.03s

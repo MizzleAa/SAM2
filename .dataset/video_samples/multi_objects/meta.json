@@ -1,0 +1,40 @@
+{
+  "name": "multi_objects",
+  "description": "빨간원+녹색사각형+파란삼각형 3객체 이동",
+  "fps": 60,
+  "frames": 600,
+  "size": [
+    640,
+    480
+  ],
+  "objects": [
+    {
+      "id": 1,
+      "point": [
+        50,
+        120
+      ],
+      "label": 1,
+      "desc": "빨간 원"
+    },
+    {
+      "id": 2,
+      "point": [
+        320,
+        240
+      ],
+      "label": 1,
+      "desc": "녹색 사각형"
+    },
+    {
+      "id": 3,
+      "point": [
+        440,
+        360
+      ],
+      "label": 1,
+      "desc": "파란 삼각형"
+    }
+  ],
+  "detect_method": "center"
+}

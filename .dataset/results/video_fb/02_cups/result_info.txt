@@ -1,0 +1,7 @@
+Facebook SAM2 Prediction
+Video: C:\workspace\SAM2\hvs\sample\..\..\.dataset\video_samples\02_cups\02_cups.mp4
+Frames: 300, Size: 1280x720
+Init: 9.58s
+Propagation: 28.56s (10.5 FPS)
+Saving: 6.33s
+Total: 44.48s

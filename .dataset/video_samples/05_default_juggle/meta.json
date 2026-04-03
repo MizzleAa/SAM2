@@ -1,0 +1,12 @@
+{
+  "name": "05_default_juggle",
+  "description": "저글링 - 축구공 추적",
+  "fps": 24.0,
+  "frames": 247,
+  "size": [1280, 720],
+  "detect_method": "center",
+  "prompt": {
+    "point": [652, 328],
+    "label": 1
+  }
+}

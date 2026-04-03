@@ -1,0 +1,30 @@
+# SAM2 HVS Pipeline - Requirements
+# Python 3.10+ | CUDA 12.x | Windows
+#
+# ── GPU(CUDA) 설치 ──
+# pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu128
+#
+# 또는 torch만 별도 설치:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+
+# ── 핵심 의존성 (CUDA 12.8) ──
+torch>=2.1.0
+torchvision>=0.16.0
+
+# ── 이미지 처리 ──
+numpy>=1.24.0
+Pillow>=10.0.0
+opencv-python-headless>=4.8.0
+
+# ── 테스트 ──
+pytest>=7.4.0
+
+# ── ONNX 배포 (선택) ──
+# onnx>=1.14.0
+# onnxruntime>=1.16.0
+# onnxruntime-gpu>=1.16.0    # CUDA용
+
+# ── 참고: 제거된 의존성 ──
+# hydra-core        → 순수 Python dict 구성으로 대체
+# submitit          → Windows 비호환, 제거
+# fvcore            → 직접 구현으로 대체

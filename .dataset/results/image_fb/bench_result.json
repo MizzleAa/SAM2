@@ -1,0 +1,26 @@
+{
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "gpu_mem_gb": 8.0,
+  "image": "000000006818.jpg",
+  "image_size": "427x640",
+  "fp32": {
+    "enc_mean": 75.51170666665712,
+    "enc_std": 2.2719298857455095,
+    "pred_mean": 7.874713333270241,
+    "pred_std": 0.9864637969071508,
+    "total_mean": 83.38641999992736,
+    "fps": 11.992360386749679,
+    "build_ms": 673.5269999990123
+  },
+  "fp16_autocast": {
+    "enc_mean": 36.18114666642214,
+    "enc_std": 0.616787457420741,
+    "pred_mean": 11.750213333046608,
+    "pred_std": 1.3801064980065532,
+    "total_mean": 47.93135999946875,
+    "fps": 20.863167663322795
+  },
+  "fp32_compile": {
+    "error": "Cannot find a working triton installation. Either the package is not installed or it is too old. More information on installing Triton can be found at: https://github.com/triton-lang/triton\n\nSet TORCHDYNAMO_VERBOSE=1 for the internal stack trace (please do this especially if you're reporting a bug to PyTorch). For even more developer context, set TORCH_LOGS=\"+dynamo\"\n"
+  }
+}
